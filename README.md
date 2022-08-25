@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>
+
+Hi 👋 my name is <i>Darwin Zhagñay</i>
+</h1>
 
 <!--
 **invintrar/invintrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
